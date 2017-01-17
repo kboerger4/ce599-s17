@@ -25,3 +25,5 @@ The syllabus is available [here](ce599-002_syllabus_s17.pdf).
 Many of the exercises are based on those developed by Paul Waddell and Geoff Boeing for CP255: Urban Informatics and Visualization at the University of California at Berkeley.  Those materials are available from: 
 
 	https://github.com/waddell/urban-informatics-and-visualization
+	
+I am changing this to see what has happened
